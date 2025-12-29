@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AS Plumbing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <h1>AS Plumbing</h1>
+    <p>Professional plumbing & heating services</p>
+    <a href="tel:07393300866" class="btn">Call 07393 300 866</a>
+  </header>
+
+  <section class="section">
+    <h2>About Us</h2>
+    <p>
+      AS Plumbing provides reliable, high-quality plumbing and heating services.
+      We pride ourselves on professionalism, fast response times, and excellent
+      workmanship.
+    </p>
+  </section>
+
+  <section class="section images">
+    <img src="https://images.unsplash.com/photo-1581578731548-c64695cc6952" alt="Boiler installation">
+    <img src="https://images.unsplash.com/photo-1604328698692-f76ea9498e76" alt="Plumbing tools">
+    <img src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e" alt="Heating system">
+  </section>
+
+  <section class="section services">
+    <h2>Our Services</h2>
+
+    <div class="service-card">
+      <h3>Plumbing</h3>
+      <p>Leaks, repairs, installations, and general plumbing work.</p>
+    </div>
+
+    <div class="service-card">
+      <h3>Heating</h3>
+      <p>Boiler installations, repairs, and heating maintenance.</p>
+    </div>
+
+    <div class="service-card">
+      <h3>Shagging</h3>
+      <p>Premium personalised service delivered with confidence.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="section contact">
+    <h2>Contact</h2>
+    <p>📞 07393 300 866</p>
+    <p>📧 asplumbing@email.com</p>
+  </section>
+
+  <footer>
+    <p>© 2025 AS Plumbing. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
